@@ -144,7 +144,7 @@ function render(){
     pvy = 0;
   }
   if(py > 19){
-    score = 01;
+    score = 0;
     px = 1;
     py = 1;
     pvy = 0;
