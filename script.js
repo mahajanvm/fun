@@ -145,7 +145,7 @@ function render(){
   }
   if(py > 19){
     score = 0;
-    px = 1;
+    px = 2;
     py = 1;
     pvy = 0;
     scroll = 0;
